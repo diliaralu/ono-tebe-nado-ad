@@ -1,1 +1,1 @@
-https://github.com/diliaralu/ono-tebe-nado
+https://github.com/diliaralu/ono-tebe-nado-ad
