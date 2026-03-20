@@ -174,7 +174,7 @@ a:hover {
 }
 
 .lots {
-  padding: 0 50.5px;
+  padding: 0 50px;
 }
 
 .lots__heading {
@@ -258,7 +258,7 @@ a:hover {
   display: grid;
   grid-template-columns: 430px 1fr;
   gap: 24px;
-  padding: 0 50.5px;
+  padding: 0 50px;
 }
 
 .about__logo {
@@ -295,7 +295,8 @@ a:hover {
   display: flex;
   justify-content: space-between;
   align-items: start;
-  padding: 180px 50.5px 80px;
+  padding: 0 50px 88.2px;
+  margin-top:180px;
 }
 
 .footer__address {
